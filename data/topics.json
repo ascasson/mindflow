@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Basic Next.js gotchas",
+    "content": "this would be a bunch of content"
+  },
+  {
+    "title": "How to store new Topics",
+    "content": "Need to figure out what the models will look like for topics. Maybe this is where the serverless stuff happens."
+  }
+]
